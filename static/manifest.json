@@ -1,0 +1,15 @@
+{
+  "short_name": "YGO",
+  "name": "游戏王制卡器",
+  "icons": [
+    {
+      "src": "/ygo/static/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/ygo/",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "display": "standalone"
+}
